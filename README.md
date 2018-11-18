@@ -60,7 +60,7 @@ print(bit_field)
 
 ```python
 # Example BIP0037 Bloom Filter
-from bloomfilter import BIP37_CONSTANT## Test Driven Exercise
+from bloomfilter import BIP37_CONSTANT
 
 field_size = 2
 num_functions = 2
